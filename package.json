@@ -1,0 +1,17 @@
+{
+  "name": "koala-example",
+  "description": "Example koala app",
+  "version": "0.0.1",
+  "author": "doug-wade <douglas.b.wade@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doug-wade/koala-example.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "koala": "2.0.0"
+  }
+}
